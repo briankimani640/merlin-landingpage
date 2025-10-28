@@ -1,0 +1,20 @@
+button{
+                background-color: green;
+                color: white;
+                padding: 10px;
+                border-radius: 5px;
+            }
+            #btn2 {
+                background-color: rgb(241, 53, 69);
+                color: white;
+                padding: 10px;
+                border-radius: 5px;
+
+            }
+            .generalStyle {
+                background-color: gray;
+                color: black;
+                padding: 10px;
+                border-radius: 5px;
+
+            }
