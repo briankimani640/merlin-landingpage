@@ -15,9 +15,9 @@ Front End(request for data) -> directly (frameworks (Django, Flask)) or Middlewa
 
 ### Coding Languages
 - Front End -
-  a. HTML - hyper text markup language (language for the web) - structure of a web application
-  b. CSS - cascading stylesheet (language we use to style HTML structure - define the web layouts for our webapp)
-  c. JS - add interactivity/ dynamism to a website - DOM - Document Object Model
+  a. HTML - hyper text markup language (language for the web) - structure of a web application.
+  b. CSS - cascading stylesheet (language we use to style HTML structure - define the web layouts for our webapp).
+  c. JS - add interactivity/ dynamism to a website - DOM - Document Object Model.
 
 ### Frameworks - front end
 ReactJS , VueJS , NextJS,
